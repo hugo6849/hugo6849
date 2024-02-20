@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hugo6849
-- 👀 I’m interested in web development (perferably front-end)
+- 👀 I like music and web development!
 
 <!---
 hugo6849/hugo6849 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
